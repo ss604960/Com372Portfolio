@@ -1,0 +1,73 @@
+
+
+
+body {
+	background-color: #FFFFF;
+	font-size: 100%;
+	margin: 0;
+	padding: 0;
+	
+}
+
+
+#tabContainer {
+  background-color: lightgrey;
+  
+
+}
+
+#tabContainer a { 
+  display: inline-block;
+  width: 17%;
+  background: lightgrey;
+  color: white;
+  padding-left: .25em;
+  padding-right: .25em;
+  padding: 1em;
+  text-align: left;
+  text-decoration: none;
+
+}
+
+#tabContainer a:hover{
+}
+
+#illustration {
+	float: left;
+}
+
+#title {
+	color: white;
+	font-size: 1.5em;
+	font-family: sans-serif;
+	padding: .15em;
+	padding-left: 2em;
+	background-image: url("lace.jpg")
+	
+}
+
+
+
+#mainColumn {
+	
+	
+}
+
+
+#content {
+	float: left;
+	width: 75%;
+	padding: 1em;
+	color: black;
+	font-family: 'Raleway', sans-serif;
+	border-radius: 5%;
+	
+}
+#illustration {
+	text-align: center;
+	float: right;
+}
+
+
+
+
