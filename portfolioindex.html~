@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Sara Shields' Portfolio</title>
-<link rel="stylesheet" href="<link href='http://fonts.googleapis.com/css?family=Francois+One' rel='stylesheet' type='text/css'>">
+<link rel="stylesheet" href="<<link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -36,7 +36,7 @@
 </div>
 
 	
-<div id="illustration"><img src="world.jpg" alt="random image" />
+<div id="illustration"><img src="images.jpg" alt="random image" />
 </div>
 
 
