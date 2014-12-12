@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Sara Shields' Portfolio</title>
+<link rel="stylesheet" href="<<link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+
+<div id="blog">
+<h2>My Blog</h2>
+
+<p>In this page I have provided the link to my person blog.
+One of my favorite hobbies has always been painting, therefore
+I decided to dedicate this blog to painting, including my own
+work and that of other artists as well. </p>
+</div>
+
+<div id="bloglinks">
+
+<li><a href="index.html">Home</a></li>
+<li><a href="http://www.sararshields.com/">Link to Blog</a></li>
+
+</div>
+
+<div id="blogimage"><img src="creepygirl.png" alt="random image" />
+</div
+
+
+
+
+</html> 

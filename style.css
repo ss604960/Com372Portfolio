@@ -1,6 +1,3 @@
-
-
-
 body {
 	background-color: #FFFFF;
 	font-size: 100%;
@@ -28,12 +25,20 @@ body {
   text-decoration: none;
 
 }
+#content{
+	width: 50%;
+	float: left;
+	margin: 2em;
+}
+
 
 #tabContainer a:hover{
 }
 
 #illustration {
 	float: left;
+	margin: 1em;
+	padding: 1em;
 }
 
 #title {
@@ -47,12 +52,32 @@ body {
 	
 }
 
+#blogtitle{ 
+	color: white;
+	font-size: 2em;
+	font-family: 'Lobster', cursive;
+	padding: .15em;
+	padding-left: 2em;
+	background: #1B3738;
+}
+
+
 #blog {
-
-
+	margin: 2em; 
+	width: 30%;
+	text-align: center;
+	float: left;
+	
 	
 }
 
+
+#blogimage {
+	float: left;
+	padding: 1em;
+	
+	
+}
 
 
 #mainColumn {
@@ -60,22 +85,60 @@ a
 }
 
 
-#content {
+
+
+
+#illustration {
 	float: left;
-	width: 55%;
+}
+
+
+#aboutmetitle {
+	color: white;
+	font-size: 2em;
+	font-family: 'Lobster', cursive;
+	padding: .15em;
+	padding-left: 2em;
+	background: #1B3738;
+}
+
+#aboutme {
+	float: left;
+	width: 45%;
 	padding: 1em;
 	margin: 1.5em;
 	color: black;
 	border-radius: 5%;
 	
+	
+	
 }
-#illustration {
+
+
+
+
+#picofme {
+	float: left; 
+	margin: 1em;
+	padding: 2em;
+
+}
+
+
+#contacttitle {
+	color: white;
+	font-size: 2em;
+	font-family: 'Lobster', cursive;
+	padding: .15em;
+	padding-left: 2em;
+	background: #1B3738;
+	
+}
+	
+#contactinfo {
 	text-align: center;
-	float: right: 17%;
-	margin: 1.5em;
-	padding: 1em;
-}
+	margin: 3em;
+	color: black;
 
 
-
-
+	
