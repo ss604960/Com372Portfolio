@@ -23,12 +23,15 @@ body {
   padding: 1em;
   text-align: left;
   text-decoration: none;
+  font-family: 'Alegreya', serif;
 
 }
 #content{
-	width: 50%;
+	width: 45%;
 	float: left;
 	margin: 2em;
+	margin-left: 3em;
+	font-family: 'Alegreya', serif;
 }
 
 
@@ -37,8 +40,9 @@ body {
 
 #illustration {
 	float: left;
-	margin: 1em;
+	margin: 2em;
 	padding: 1em;
+	margin-left: 3em;
 }
 
 #title {
@@ -62,6 +66,7 @@ body {
 }
 
 
+
 #blog {
 	margin: 2em; 
 	width: 30%;
@@ -70,11 +75,13 @@ body {
 	
 	
 }
+	
 
 
 #blogimage {
 	float: left;
 	padding: 1em;
+	margin-left: 2em;
 	
 	
 }
@@ -106,9 +113,11 @@ a
 	float: left;
 	width: 45%;
 	padding: 1em;
-	margin: 1.5em;
+	margin: 2em;
+	margin-left: 3em;
 	color: black;
 	border-radius: 5%;
+	font-family: 'Alegreya', serif;
 	
 	
 	
@@ -124,8 +133,9 @@ a
 }
 
 #resumecontent {
-	margin: 1em;
+	margin: 2em;
 	text-align: center;
+	font-family: 'Alegreya', serif;
 }
 
 
@@ -133,6 +143,7 @@ a
 	float: left; 
 	margin: 1em;
 	padding: 2em;
+	margin-left: 3em;
 
 }
 
@@ -151,6 +162,7 @@ a
 	text-align: center;
 	margin: 3em;
 	color: black;
-
+	font-family: 'Alegreya', serif;
+}
 
 	
